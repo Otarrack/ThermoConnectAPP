@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534844640485",
+    "firebase_url": "https://thermometrewatch.firebaseio.com",
+    "project_id": "thermometrewatch",
+    "storage_bucket": "thermometrewatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534844640485:android:701e83fc31094071",
+        "android_client_info": {
+          "package_name": "com.florian.thermoconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534844640485-5r68vsek89gnb8m4f6l2iqrgvdj47pfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.florian.thermoconnect",
+            "certificate_hash": "43543be14b5216e334246a3bb1074ec9b66901ae"
+          }
+        },
+        {
+          "client_id": "534844640485-bq4o5fkoq9knt5smb52rj473f7668kdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB6ClI1Ds7d1M7dtJl66h2YnQcXH6gCoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534844640485-bq4o5fkoq9knt5smb52rj473f7668kdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9f0000</color>
+    <color name="colorPrimaryDark">#660003</color>
+    <color name="colorAccent">#999019</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="humidity_very_low">#85f5fc</color>
+    <color name="humidity_low">#00eeff</color>
+    <color name="humidity_mid">#00aeff</color>
+    <color name="humidity_high">#0073ff</color>
+    <color name="humidity_very_high">#002fff</color>
+
+    <color name="temperature_very_low">#0098a3</color>
+    <color name="temperature_low">#4ef4ff</color>
+    <color name="temperature_mid">#f2f94c</color>
+    <color name="temperature_high">#ffaa00</color>
+    <color name="temperature_very_high">#ff0000</color>
+</resources>

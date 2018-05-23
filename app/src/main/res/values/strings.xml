@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThermoConnect</string>
+    <string name="main_temperature">Température</string>
+    <string name="main_humidity">Humidité</string>
+</resources>
